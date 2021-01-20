@@ -432,6 +432,25 @@
                49.333512503788185
             ]
          }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "marker-color":"#6DAE81",
+            "marker-size":"medium",
+            "marker-symbol":"skiing",
+            "Placename":"Mount Seymour",
+            "notes":"Ski and other activites",
+            "Contributor":"Rachel McCarthy",
+            "link":"https://mtseymour.ca/trailmap"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -122.9444,
+               49.3933
+            ]
+         }
       }
    ]
 }
