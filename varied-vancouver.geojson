@@ -235,6 +235,25 @@
                49.18389140648167
             ]
          }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "marker-color":"#e32400",
+            "marker-size":"medium",
+            "marker-symbol":"shop",
+            "Placename":"Value Village ",
+            "notes":"So far my favorite thrift stores in Vancouver!",
+            "Contributor":"Riley Bosca",
+            "link":"https://www.valuevillage.com"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -123.06601524353026,
+               49.2263282368482
+            ]
+         }
       }
    ]
 }
