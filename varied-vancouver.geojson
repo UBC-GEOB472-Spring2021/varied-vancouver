@@ -323,6 +323,22 @@
                49.240914053166065
             ]
          }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "marker-color":"#7e7e7e",
+            "marker-size":"medium",
+            "marker-symbol":"star",
+            "Location":"Terminus"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -123.26395690441132,
+               49.20554897476261
+            ]
+         }
       }
    ]
 }
