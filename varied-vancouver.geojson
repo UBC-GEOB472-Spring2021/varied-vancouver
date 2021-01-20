@@ -376,6 +376,25 @@
                49.28029069430103
             ]
          }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "marker-color":"#1d7e16",
+            "marker-size":"medium",
+            "marker-symbol":"park",
+            "Placename":"Kennedy Falls",
+            "notes":"\"The trail passes an enormous old-growth cedar tree, with several trees growing out of it, before heading further north to a spectacular waterfall called Kennedy Falls.\"",
+            "link":"https://www.vancouvertrails.com/trails/big-cedar-and-kennedy-falls-trail/",
+            "Contributor":"bobxhz"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -123.04752313628799,
+               49.3999063227616
+            ]
+         }
       }
    ]
 }
