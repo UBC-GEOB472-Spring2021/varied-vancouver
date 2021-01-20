@@ -254,6 +254,25 @@
                49.2263282368482
             ]
          }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "marker-color":"#1d7e16",
+            "marker-size":"",
+            "Placename":"Park where you can go biking",
+            "notes":"Many trails and trees",
+            "marker-symbol":"bicycle",
+            "link":"https://vancouver.ca/parks-recreation-culture/stanley-park.aspx",
+            "Contributor":"Jiayuan"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -123.1467819213867,
+               49.298822457199506
+            ]
+         }
       }
    ]
 }
