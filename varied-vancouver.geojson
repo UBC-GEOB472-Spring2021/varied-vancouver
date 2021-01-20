@@ -292,6 +292,21 @@
                49.26407296909456
             ]
          }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "marker-color":"#ff6600",
+            "marker-size":"medium",
+            "marker-symbol":"museum"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -123.14442694187164,
+               49.276302821802325
+            ]
+         }
       }
    ]
 }
