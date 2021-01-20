@@ -339,6 +339,43 @@
                49.20554897476261
             ]
          }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "marker-color":"#6c52b6",
+            "marker-size":"medium",
+            "marker-symbol":"park",
+            "Placename":"Lynn Canyon",
+            "notes":"Beautiful area to walk around! ",
+            "Contributor":"Alison"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -123.01940917968751,
+               49.34274041619706
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "marker-color":"#ffd500",
+            "marker-size":"medium",
+            "marker-symbol":"cafe",
+            "Placename":"New Town Bakery and Restaurant",
+            "Notes":"Good asian baked goods! Taste just like I remember ",
+            "Link":"https://www.newtownbakery.ca/",
+            "Contributor":"fel-y"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -123.10118705034255,
+               49.28029069430103
+            ]
+         }
       }
    ]
 }
