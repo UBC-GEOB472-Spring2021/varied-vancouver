@@ -307,6 +307,22 @@
                49.276302821802325
             ]
          }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "marker-color":"#1d7e16",
+            "marker-symbol":"park",
+            "Placename":"Lighthouse Point trail",
+            "notes":"Very beautiful and with many flowers"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -123.11141967773436,
+               49.240914053166065
+            ]
+         }
       }
    ]
 }
