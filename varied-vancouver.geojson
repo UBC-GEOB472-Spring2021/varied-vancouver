@@ -216,6 +216,25 @@
                49.309781136835234
             ]
          }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "marker-symbol":"shop",
+            "marker-color":"#1d7e16",
+            "marker-size":"",
+            "Placename":"Aberdeen Centre",
+            "notes":" Good place to shop",
+            "link":"https://www.aberdeencentre.com/en/home.php",
+            "Contributor":"Marco Wong"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -123.13482999801637,
+               49.18389140648167
+            ]
+         }
       }
    ]
 }
