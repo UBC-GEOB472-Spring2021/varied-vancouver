@@ -273,6 +273,25 @@
                49.298822457199506
             ]
          }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "marker-color":"#42b323",
+            "marker-size":"medium",
+            "marker-symbol":"shop",
+            "PLACE NAME":"SPCA Thrift Shop",
+            "NOTES":"Recently renovated secondhand shop that donates proceeds to SPCA",
+            "LINK":"https://spca.bc.ca/about-us/locations/thrift-stores/",
+            "CONTRIBUTOR":"leskojosh000"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -123.18398416042328,
+               49.26407296909456
+            ]
+         }
       }
    ]
 }
