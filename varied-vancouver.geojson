@@ -395,6 +395,7 @@
                49.3999063227616
             ]
          }
-      }
-   ]
+      },
+   {"type":"Feature","properties":{"marker-color":"#669c35","marker-size":"medium","marker-symbol":"park","Placename":"Jonathan Rogers Park","notes":"Great park with washrooms, a decent view and breweries nearby","link":"https://covapp.vancouver.ca/ParkFinder/parkdetail.aspx?inparkid=137","Contributor":"Suyu He"},"geometry":{"type":"Point","coordinates":[-123.10805082321167,49.26430401329554]}}
+     ]
 }
